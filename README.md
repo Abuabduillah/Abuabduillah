@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abuabduillah
-- 👀 I’m interested in software engineering and Data analytics
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data analytics and Data Science
+- 🌱 I’m currently learning Data analytics
+- 💞️ I’m looking to collaborate on projects that will sharpen my skills
 - 📫 you can reach me on GitHub on abuabduillah
 
 <!---
